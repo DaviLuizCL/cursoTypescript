@@ -56,6 +56,7 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
-.relogio {
-  font-size: 5em;
+.paragrafo-resultado {
+  background: #32c439;
+  padding: 10px 20px;
 }
